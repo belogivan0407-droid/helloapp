@@ -1,11 +1,13 @@
-﻿﻿Console.WriteLine("hello everyone");
+﻿Console.WriteLine("hello everyone");
+GreetWhite();
+GreetBlack();
 
-void greetWhite()
+void GreetWhite()
 {
     Console.WriteLine("hello white");
 }
 
-void greetBlack()
+void GreetBlack()
 {
     Console.WriteLine("hello black");
 }
